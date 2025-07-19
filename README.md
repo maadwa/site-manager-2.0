@@ -76,14 +76,4 @@ This is a Streamlit-based web application for managing and analyzing constructio
 - Default fallback to `./Construction` directory
 - Wide layout configuration for optimal dashboard viewing
 
-### Error Handling
-- Graceful handling of missing folders or files
-- User-friendly error messages and warnings
-- Fallback mechanisms for file access issues
 
-## Changelog
-- July 03, 2025. Initial setup
-
-## User Preferences
-
-Preferred communication style: Simple, everyday language.
